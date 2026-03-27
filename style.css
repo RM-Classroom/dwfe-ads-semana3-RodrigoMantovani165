@@ -1,0 +1,69 @@
+body{ 
+
+    background-color: gray; 
+
+} 
+
+h1{ 
+
+ 
+
+    text-align: center; 
+
+} 
+
+.sub{ 
+
+ 
+
+    text-align: center; 
+
+} 
+
+img{ 
+
+ 
+
+    width: 400px; 
+
+    height: 350px; 
+
+}  
+
+.meio{ 
+
+        
+
+     margin-top: 50px; 
+
+     text-decoration: underline; 
+
+} 
+
+.Experiencia{ 
+
+text-align: center; 
+
+margin-top: 50px; 
+
+font-size: 20px; 
+
+} 
+
+.educaçao{ 
+
+    text-align: center; 
+
+margin-top: 50px; 
+
+ 
+
+} 
+
+.esquerda{ 
+
+ 
+
+    margin-top: -100px; 
+
+} 
